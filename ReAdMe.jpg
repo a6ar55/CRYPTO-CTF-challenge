@@ -1,0 +1,12 @@
+
+
+                  CAN YOU FIND MY EMAIL ?
+
+   Your task is to determine the hashing algorithm used to generate these hash and further crack it.
+
+
+   level3_salt : level_2_value + level_1_value 
+
+   (Remember that tools like Hashcat can be helpful.)
+                                                                  
+                                                                   :- se1ge_
