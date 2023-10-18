@@ -8,5 +8,9 @@
    level3_salt : level_2_value + level_1_value 
 
    (Remember that tools like Hashcat can be helpful.)
+
+   You can get the flag by AES(ECB) decrypting the .dat file with my email as key.
+   (http://aes.online-domain-tools.com/)
+                                                        
                                                                   
                                                                    :- se1ge_
